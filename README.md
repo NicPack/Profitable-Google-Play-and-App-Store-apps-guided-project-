@@ -1,1 +1,1 @@
-# Profitable-Google-Play-and-App-Store-apps-guided-project-
+# My first guided project from DataQuest from the Data Analyst path. The task was to: find mobile app profiles that are profitable for the App Store and Google Play markets. Pretending working as a data analysts for a company that builds Android and iOS mobile apps, the job is to enable our team of developers to make data-driven decisions about which category of apps would be the most profitable to build, if our main source of revenue consists of in-app ads.
